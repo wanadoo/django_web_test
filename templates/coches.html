@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Coches</h1>
+<br/>
+<div class="container-fluid">
+    <form method="get">
+        <div class="form-group">
+            <label for="date">Fecha de creación previa a: </h2>
+            <input type="date" name="fecha" required />
+            <button type="submit" class="btn btn-primary">Filtrar</button>
+        </div>
+    </form>
+</div>
+<br/>
+<div class="container-fluid">
+    <form method="get">
+        <div class="form-group">
+            <label for="number">Identificador del coche: </h2>
+            <input type="number" name="id" required />
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </div>
+    </form>
+</div>
+
+<a class="btn btn-success mb-3" href="coches/nuevo_coche" role="button">Nuevo Coche</a>
+<br/>
+<br/>
+<div class="container-fluid">
+{% if lista_coches %}
+    {% for obj in lista_coches %}
+
+    <p>
+        <a href="coches/{{obj.id}}">{{ obj }}</a>
+        <a class="btn btn-danger" href="coches/delete-{{obj.id}}">Eliminar</a>
+    </p>
+
+    {% endfor %}
+{% else %}
+    <h3>No hay resultados para la búsqueda</h3>
+{% endif %}
+</div>
+
+{% endblock %}

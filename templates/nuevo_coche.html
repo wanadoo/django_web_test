@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Nuevo Coche</h1>
+<br>
+<form method="post"> {% csrf_token %}
+<!-- renderizar el form como html formato p -->
+ {{ form.as_p}}
+
+<input type="submit" value="Save"/>
+
+</form>
+
+{% endblock %}

@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Detalles coche</h1>
+<!-- 
+<ul>
+<li><b>Marca:</b> {{ obj.marca }}</li>
+<li><b>Modelo:</b> {{ obj.modelo }}</li>
+<li><b>Fecha:</b> {{ obj.fecha }}</li>
+</ul> 
+-->
+
+<form method="post">{% csrf_token %}
+    {{ form.as_p}}
+    <input type="submit" value="Guardar"/>
+
+</form>
+{% endblock %}

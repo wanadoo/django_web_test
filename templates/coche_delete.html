@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<form method="post">{% csrf_token %}
+    <h1>¿Eliminar el coche "{{obj}}" del catálogo?</h1>
+    <p><input type="submit" value="Si"/> <a href="coches/list">Cencelar</a></p>
+
+</form>
+{% endblock %}

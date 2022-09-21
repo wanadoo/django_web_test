@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manage.py",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: \t",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Rafa/Desktop/Proyectos/django_web/mysite"
+	],
+	"file_history":
+	[
+		"/C/Users/Rafa/Desktop/Proyectos/django_web/mysite/car.sublime-project",
+		"/C/Users/Rafa/AppData/Roaming/Sublime Text 3/Packages/User/SublimeHighlight.sublime-settings",
+		"/C/Users/Rafa/AppData/Roaming/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
+		"/C/Users/Rafa/Desktop/Proyectos/coches/garage/garage/settings.py",
+		"/C/Users/Rafa/AppData/Roaming/.minecraft/versions/Skyopolis 5 1.0/simple-rpc/server-entries.toml",
+		"/C/Users/Rafa/Desktop/stockChecker.py",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/iziModal.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/iziModal.min 2.js",
+		"/D/Descargas/Albor/BackupWEB/CDPAlborCordoba21/wp-content/plugins/stylistic-modals/vendor/js/iziModal.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/waypoints.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/dismiss.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/van11y-accessible-modal-window-aria.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/admin.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/jquery.query.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/svgxuse.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/jquery-migrate.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/jquery-migrate.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/jquery.color.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/51ab86158692410162fd6d5e92e8498f.json",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/a03dee9497fdd35b722104ab915041c7.json",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/.htaccess",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/js.cookie.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/jquery.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/xfn.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/word-count.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/word-count.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/widgets.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/widgets.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/user-suggest.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/user-suggest.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/user-profile.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/user-profile.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/updates.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/theme.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/updates.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/theme.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/theme-plugin-editor.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/tags.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/tags.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/theme-plugin-editor.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/tags-suggest.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/tags-box.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/tags-suggest.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/tags-box.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/svg-painter.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/site-health.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/svg-painter.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/site-health.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/set-post-thumbnail.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/set-post-thumbnail.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/revisions.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/revisions.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/privacy-tools.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/privacy-tools.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/postbox.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/postbox.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/post.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/post.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/plugin-install.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/password-strength-meter.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/plugin-install.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/password-strength-meter.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/nav-menu.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/nav-menu.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/media.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/media.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/media-upload.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/media-upload.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/media-gallery.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/media-gallery.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/link.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/link.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/language-chooser.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/iris.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/language-chooser.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/inline-edit-tax.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/inline-edit-post.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/inline-edit-tax.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/inline-edit-post.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/image-edit.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/image-edit.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/gallery.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/gallery.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/farbtastic.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/editor.min 2.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/editor 2.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/editor-expand.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/editor-expand.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/edit-comments.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/edit-comments.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/dashboard.min 2.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/dashboard 2.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/customize-widgets.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/customize-nav-menus.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/customize-widgets.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/customize-nav-menus.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/customize-controls.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/customize-controls.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/custom-header.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/custom-background.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/custom-background.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/common.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/common.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/comment.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/comment.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/color-picker.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/color-picker.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/code-editor.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/code-editor.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/auth-app.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/auth-app.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/accordion.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/application-passwords.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/application-passwords.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/xfn.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/accordion.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/.htaccess 3",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/notice-update.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/admin 4.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/drop-down-menu.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/drop-down-menu.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/admin.min 3.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/skip-links.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/skip-links.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/.htaccess 2",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/form-embed-wizard.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/form-embed-wizard.min.js",
+		"/C/Users/Public/Documents/Wondershare/CreatorTemp/fz3temp-2/notices.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manage.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.deviot":
+	{
+		"height": 352.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "car.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

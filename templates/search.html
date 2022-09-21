@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Nuevo Coche</h1>
+
+
+
+</br>
+
+<div class="container-fluid">
+    <form method="get">
+        <div class="form-group">
+            <label for="category">Marca: </label>
+            <select name="marca">
+                <option selected>Marca...</option>
+                {% for mar in marcas %}
+                    <option>{{ mar }}</option>
+                {% endfor %}
+            </select>
+            <label for="category">Modelo: </label>
+            <select name="modelo">
+                <option selected>Modelo...</option>
+                {% for mod in modelos %}
+                    <option>{{ mod }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </div>
+    </form>
+</div>
+
+</br>
+<div class="container-fluid">
+    {% if lista_coches %}
+        {% for obj in lista_coches %}
+    
+        <p>{{ obj }}</p>
+    
+        {% endfor %}
+    {% else %}
+        <h3>No hay resultados para la búsqueda</h3>
+    {% endif %}
+    </div>
+
+{% endblock %}

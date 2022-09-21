@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Modelos</h1>
+<br>
+
+<a class="btn btn-success mb-3" href="modelos/nuevo_modelo" role="button">Nuevo Modelo</a>
+{% for obj in lista_modelos %}
+
+<p>
+    <a href="modelos/{{obj.id}}">{{ obj }}</a>
+    <a class="btn btn-danger" href="modelos/delete-{{obj.id}}">Eliminar</a>
+</p>
+
+{% endfor %}
+
+{% endblock %}
